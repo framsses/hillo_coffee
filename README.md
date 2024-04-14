@@ -1,4 +1,4 @@
-# Geopandas y Folium
+# Geopandas and Folium
 
 GeoPandas (GPD) is an open source project for working with geospatial data in Python.
 GPD extends the data types in Pandas to allow geospatial operations on geometric data types.
